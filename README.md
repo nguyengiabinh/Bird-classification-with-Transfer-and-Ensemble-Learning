@@ -1,4 +1,4 @@
-# Bird Species Classification using Custom and Ensemble Learning Models
+# Bird Species Classification using Transfer and Ensemble Learning Models
 
 This repository contains the implementation and analysis of various machine learning strategies for bird species classification. The project is part of **COS30082 - Applied Machine Learning** at Swinburne University of Technology. It uses the **Caltech UCSD-200 Birds dataset (CUB-200)**, focusing on mitigating overfitting through custom hybrid learning strategies and ensemble learning techniques.
 
